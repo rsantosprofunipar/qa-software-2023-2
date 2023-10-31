@@ -1,3 +1,3 @@
 public class Salario {
-    float salario;
+    long salario;
 }
